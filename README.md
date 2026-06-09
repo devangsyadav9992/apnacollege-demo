@@ -13,4 +13,9 @@ Head-Devang Yadav - Head                                             <!-- staged
                                                                    <!-- git add filename>
 
                                                                    <!-- commit - it is the record of change -->
-                                                                   <!-- git commit -m "some message" -->k
+                                                                   <!-- git commit -m "some message" -->
+
+
+                                                                   <!-- Push Command >
+                                                                   <!-- push : upload local repo content to remote repo >
+                                                                   <!-- Command : git push origin main>
