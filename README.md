@@ -42,3 +42,46 @@ Devang Yadav
                                                                        <!-- git checkout -b <- new branch name -> to create new branch -->
                                                                        <!-- git branch -d <- branch name -> to delete branch -->
                                                                        
+                                                                       <!--  Merging Code -->
+
+                                                                       <!-- Way 1 -->
+
+                                                                       <!-- git diff <-branch name-> to compare commits,branches,files & more -->
+
+                                                                       <!-- git merge <-branch name-> to merge 2 branches -->
+
+
+                                                                       <!-- Way 2 -->
+
+                                                                       <!-- Create a Pull request (PR) -->
+                                                                       <!-- Pull request - It lets you tell others about changes you have pushed to a branch in a repository on GitHub -->
+
+                                                                       
+                                                                       <! -- Pull Command -->
+
+                                                                       <!-- git pull origin main>
+
+                                                                       <!-- used to fetch and downlaod content from a remote repo and immediately update the local repo to match that content -->
+
+
+                                                                       <!-- Resolving merge conflicts -->
+                                                                       <!-- An event that takes place when git is unable to automatically resolve diffrences in code between two commits -->
+
+
+                                                                       <!-- Undoing Changes in Git-->
+                                                                       <!-- Case 1 : staged changes -->
+                                                                       <!-- git reset <- filensme -> -->
+                                                                       <!--  git reset -->
+
+
+                                                                       <1-- Case-2 : commited changes (for one commit) -->
+                                                                       <!-- git reset HEAD-1 -->
+
+
+                                                                       <!-- Case-3 : command chages (for many commits) -->
+                                                                       <!-- git reset <-commit hash -> -->
+                                                                       <!-- git reset --hard <- commit hash -> -->
+
+
+                                                                       <!-- Fork -->
+                                                                       <!-- A frok is a new repository that shares code and visiblity settings with the original "upstream" repository. Fork is a rough copy -->
